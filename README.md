@@ -6,8 +6,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrY-mm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-# 💫 About Me:
-¡Hola! Soy Diego 👋<br><br>Apasionado de la tecnología, la programación y el desarrollo de software.<br><br>- 💻 Aprendiendo y creando proyectos de software.<br>- 🚀 Explora mis repositorios para ver en qué estoy trabajando.<br><br>---<br>📫 ¡Siéntete libre de conectar conmigo o revisar mi código!
+# 👋 About Me:
+Hey there! 🫡
+
+Soy Diego, un desarrollador de España.
+
+Diseño y programo prácticamente cualquier cosa que me imagine.
+
+Si se me ocurre una idea para una app, un juego o una herramienta, lo más probable es que termine programándola.
+
+Mi stack principal incluye TypeScript, CSS, React Native, Python y Godot, y Programo usando VsCode
 
 
 ## 🌐 Socials:
